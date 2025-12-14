@@ -28,10 +28,10 @@ export default function Contact({ setToast }) {
             📞
           </span>
           <a
-            href="tel:+79625635815"
+            href="tel:+7(919)622-00-20"
             className="text-yellow-300 hover:text-yellow-400 hover:underline drop-shadow"
           >
-            +7 (962) 563-58-15
+            +7 (919) 622-00-20
           </a>
         </p>
 
@@ -39,7 +39,7 @@ export default function Contact({ setToast }) {
           <span role="img" aria-label="map" className="text-yellow-400 drop-shadow">
             📍
           </span>
-          <span className="text-yellow-300 drop-shadow">г. Казань, ул. Примерная, 10</span>
+          <span className="text-yellow-300 drop-shadow">Республика Татарстан, г. Казань</span>
         </p>
 
         <p className="flex justify-center items-center gap-2">
